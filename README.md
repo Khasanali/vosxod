@@ -1,2 +1,0 @@
-# vosxod2
-# test
